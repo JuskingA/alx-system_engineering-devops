@@ -1,5 +1,5 @@
-# Creating A file in tmp folder named holberton
-file { '/tmp/holberton':
+# Creating A file in tmp folder named school
+file { '/tmp/school':
     ensure  => 'present',
     mode    => '0744',
     owner   => 'www-data',
