@@ -1,0 +1,1277 @@
+[33mcommit 54aec4c7521a00367f439c5935ddefec9787f762[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Jan 13 15:23:37 2023 +0000
+
+    web
+
+[33mcommit 915641893115f48db9dbaadf31ebe3cbe3fb3fc1[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Jan 13 15:18:24 2023 +0000
+
+    web
+
+[33mcommit 0c4f58d989cc9ca4959c191205367cb755b77fa0[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Jan 13 15:12:07 2023 +0000
+
+    spa
+
+[33mcommit b07221afe7975555d5431a4d8722b0d78b6f0b2a[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Jan 13 15:05:10 2023 +0000
+
+    spa
+
+[33mcommit 2deeb4993d08f7298af4d1aef590886f5fad1c18[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Jan 13 14:43:31 2023 +0000
+
+    ad
+
+[33mcommit c58943d32492abf3b24ad877de99900b646a7590[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jan 12 21:50:30 2023 +0000
+
+    nginx
+
+[33mcommit d1ac0c50e3df8304c03542be1d26f5577ebe6358[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jan 12 21:32:52 2023 +0000
+
+    nginx
+
+[33mcommit 2d7fd85cd9f4c895f169bedad1ab65b89140dfb0[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jan 12 21:29:14 2023 +0000
+
+    debugging
+
+[33mcommit 8f3c040763a369ab095addc777a762fb73750717[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jan 12 11:40:58 2023 +0000
+
+    server update
+
+[33mcommit ddb35dbc67c0a3d4a5c7c1ab0f5a58b401f77176[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jan 12 11:33:50 2023 +0000
+
+    server
+
+[33mcommit 802296ebadf552c0b6409cd2c3a232340356dba7[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Wed Jan 11 06:39:11 2023 +0000
+
+    aut
+
+[33mcommit ae2a4fff69721ae1dd451bd71e34bf2db5edde1f[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Wed Jan 11 06:34:59 2023 +0000
+
+    config
+
+[33mcommit 05c856f559c45b5f3c8c63d512f3cc65d2af7c7c[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Wed Jan 11 06:14:45 2023 +0000
+
+    ssh key
+
+[33mcommit c5872272c9ee9faf493bb07b0b6a75b9036734b6[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Wed Jan 11 06:12:08 2023 +0000
+
+    privete key
+
+[33mcommit 0c651d6dcd07344d74872932afcc7f16e79f325b[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Wed Jan 11 06:09:26 2023 +0000
+
+    README
+
+[33mcommit bef1b5713024b6c1e9b858f2368c51bd80145fe4[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Wed Jan 11 05:53:01 2023 +0000
+
+    task3
+
+[33mcommit c0603da2cfd589824e5ac07005392b65b1e239bc[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Wed Jan 11 05:50:07 2023 +0000
+
+    task2 update
+
+[33mcommit 3274cbe81b0f2b7e822df3dd3b545a7e6f5fa5bb[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Wed Jan 11 05:47:33 2023 +0000
+
+    task2
+
+[33mcommit a76ca5ab40097d0c0283f5569ccdd0bce4aadbe1[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Wed Jan 11 05:44:00 2023 +0000
+
+    task 1 update
+
+[33mcommit a9796c1cdd892a5da1a548d56e0a243782af51b8[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Wed Jan 11 05:41:09 2023 +0000
+
+    task 1
+
+[33mcommit bf9f53bce60ebc541acf7b2b70c5e6f238b219f7[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Wed Jan 11 05:40:12 2023 +0000
+
+    README
+
+[33mcommit 8d0d4942ac756748e05c90095eef17307f4cfc09[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Jan 6 23:09:11 2023 +0000
+
+    aa
+
+[33mcommit 5c89026e2becd8eac2bde9cb0c8e27461032a75f[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Nov 17 18:02:10 2022 +0000
+
+    port listening
+
+[33mcommit f950048905f7858290ff6b021109252039be02af[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Nov 17 18:01:23 2022 +0000
+
+    attached IP
+
+[33mcommit 00e9ac9b93d362554ef036f857fb36a048ae1bd8[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Nov 17 18:00:40 2022 +0000
+
+    change home IP
+
+[33mcommit 26d63abd06273f9c9da2308f1b4a61f7e4a046c8[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Nov 17 17:59:55 2022 +0000
+
+    README
+
+[33mcommit f82625ecf4eda2212fe339e08613a794d14f4fd0[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Nov 17 17:56:45 2022 +0000
+
+    host
+
+[33mcommit e2960fdb6c7124a3dd8f652e2af05d603081974e[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Nov 17 17:55:58 2022 +0000
+
+    TCP_UDP -ports
+
+[33mcommit a774fe268e5446860a675dca717e8acfbf99cfae[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Nov 17 17:55:07 2022 +0000
+
+    UDP_TCP
+
+[33mcommit 1170f517cbd3f452ce3884ca77bbac970d42c91e[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Nov 17 17:54:24 2022 +0000
+
+    IP address
+
+[33mcommit 0321e032d066e5b5f6fcd731afb94376d259effe[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Wed Nov 16 20:50:11 2022 +0000
+
+    1. Types of network
+
+[33mcommit 2f458b5ed8d9f879916a21a970e2a7363da1b699[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Wed Nov 16 20:47:21 2022 +0000
+
+    0. OSI model
+
+[33mcommit 12123c851c49944b373279e68de8c439e00ba534[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Wed Nov 16 20:35:21 2022 +0000
+
+    README
+
+[33mcommit 9aeca658d809327195c3d2814498bee915c21e52[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Nov 15 22:55:08 2022 +0000
+
+    t9
+
+[33mcommit 23d46936610eb5f64528e060fd827b059a3dfa6f[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Nov 15 22:46:43 2022 +0000
+
+    t8
+
+[33mcommit 90c7f5bc6c49eee9b1097d75b9e2584101f99498[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Nov 15 22:45:36 2022 +0000
+
+    t7
+
+[33mcommit 105dd89ae817bd3351c3179c3580764125e980b6[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Nov 15 22:44:42 2022 +0000
+
+    t6
+
+[33mcommit 1ede79b2b51b099c7bb074c796a2820c02287a7d[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Nov 15 22:43:41 2022 +0000
+
+    t5
+
+[33mcommit 74654360fd01180004a95515364294011b798ba3[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Nov 15 22:42:42 2022 +0000
+
+    t4
+
+[33mcommit 38eddd71c801716a9a2bcd1e8c996a245e880eb8[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Nov 15 22:41:44 2022 +0000
+
+    t3
+
+[33mcommit f5b45bd5bf646f2bd1e687175691c5fd921e86af[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Nov 15 22:40:29 2022 +0000
+
+    t2
+
+[33mcommit 76e3fab99c35d8f407ff9a15e7dc5f2d6bdd29e4[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Nov 15 22:37:44 2022 +0000
+
+    t1
+
+[33mcommit fed2b7fa05049da04c00450113c284fecb1564f1[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Nov 15 22:34:34 2022 +0000
+
+    README
+
+[33mcommit e3b92f21bdeaca5bf9505bf8f84f701deceec32e[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 20:52:46 2022 +0000
+
+    task update fixed 2
+
+[33mcommit a11b7978f35aa6b4dfaf35de407552e4d45b8da7[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 20:49:04 2022 +0000
+
+    task update fixed 2
+
+[33mcommit 3b9000a0d583183082bdf0e0b0faeac2859dc1b7[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 20:44:31 2022 +0000
+
+    task update fixed 2
+
+[33mcommit a04cfc204dffeacb6ccfb094b30f4ab8aaf09d57[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 20:35:41 2022 +0000
+
+    task update fixed
+
+[33mcommit 225c003b8497cf3361a7951af78e89886ecad2ec[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 20:25:55 2022 +0000
+
+    task update
+
+[33mcommit 2ad66791f0bf5e9f3df47e06a834c9559c429811[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 18:36:36 2022 +0000
+
+    task 2
+
+[33mcommit 0d3bce16e2ebed5e0b51bf740bda86d88c9d0474[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 18:29:11 2022 +0000
+
+    1-list_your_processes
+
+[33mcommit ceb65e27318544d0f26c472f58a064e13bc10a0a[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 18:25:07 2022 +0000
+
+    0-what-is-my-pid
+
+[33mcommit b480e6357690f7b6f35f2c920907e71b96589d01[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 18:22:06 2022 +0000
+
+    README
+
+[33mcommit 029d0e981341c9117fcecaced2fb80018fd41f3c[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 18:19:27 2022 +0000
+
+    add apache + script or IP
+
+[33mcommit 408d5bdec943d5c1e34d421d4066b914d3e74147[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 18:10:35 2022 +0000
+
+    add apache + script or IP
+
+[33mcommit 721c4ed993dfe77581ea7f3552cb97bccb27472d[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 18:02:45 2022 +0000
+
+    add apache + script or IP
+
+[33mcommit 141a68b0b80c1c45d7adf7a3222b787d436733d0[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 17:59:09 2022 +0000
+
+    add apache + script or IP
+
+[33mcommit d08db9d0a8cbfd46a9a2dee7f75d45e404701299[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 17:50:59 2022 +0000
+
+    add apache + script or IP
+
+[33mcommit 0e29f0d6f080265623c795f7c3b87ae53481bcf2[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 17:49:35 2022 +0000
+
+    gone
+
+[33mcommit bb29a46be113be719a3dc3537a0fe79703705cd4[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 17:47:10 2022 +0000
+
+    Apacher-access log
+
+[33mcommit 4d5eb128dfdd9f53e1f3ead0969b4db0d74a9133[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 17:46:08 2022 +0000
+
+    Apacher-access del
+
+[33mcommit d87ecad7671f38fbfaf1d7f6e3dc0fc18c4e5208[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 17:44:17 2022 +0000
+
+    Apacher-access
+
+[33mcommit 2bde3bf11aef382889ec5ee93b141fd1d5912161[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 17:41:21 2022 +0000
+
+    Apacher-access log
+
+[33mcommit 63529bb29cdaf058ae7da6be5f51db15e32f6ec7[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 17:35:18 2022 +0000
+
+    Apacher-access
+
+[33mcommit 51dfe630c662cb38a352d0c49282f5d0156e2f7a[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 11:26:46 2022 +0000
+
+    101-tell_the_story_of_passwd
+
+[33mcommit 8f51b126d051d014112801fc18e37f24df935771[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 11:23:26 2022 +0000
+
+    100. read and cutout
+
+[33mcommit 45d2b3b692cb668ece6008bf8241e5cc59e69ff7[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 11:15:46 2022 +0000
+
+    10-fizzbuzz
+
+[33mcommit 6abe44c910030b180293879b6228162a8c7f5d89[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 11:13:08 2022 +0000
+
+    9-to_file_or_not_to_file
+
+[33mcommit a57443b2a9c51ceb40155ab253e66afd6ba0c1a3[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 11:05:06 2022 +0000
+
+    8-for_ls
+
+[33mcommit be91ac74a6ad1f6df5c52d5d18f04f8cd2a3b44a[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 10:42:30 2022 +0000
+
+    7-clock
+
+[33mcommit b8e423dc278e1ec8dd9d638b54e1d8f2fa277320[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 10:40:17 2022 +0000
+
+    6-superstitious_numbers
+
+[33mcommit 05dda7eb02252eeef9216ca60f1c6a38df5deb81[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 10:37:24 2022 +0000
+
+    5-4_bad_luck_8_is_your_chance
+
+[33mcommit e4502fcb98d922e84075d33633089aad238bc16c[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 10:34:07 2022 +0000
+
+    4. if_9_say_hi
+
+[33mcommit 1cfcfaa8a25f40ca7bfc7c616f07a55ba4b7026f[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 10:31:23 2022 +0000
+
+    3. until_best_school
+
+[33mcommit b2e627319df7f10eb8f286766644ddfc7fd8be8f[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 10:27:20 2022 +0000
+
+    2. While Best School Loop
+
+[33mcommit fa2ce0259ce6c36e70e74ae068675f0761b6e6ad[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 10:18:14 2022 +0000
+
+    1. For Best School loop update
+
+[33mcommit ba4dd3016ae4db29e2c338d48459bd891ff5abe0[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 10:09:46 2022 +0000
+
+    1. For Best School loop update
+
+[33mcommit 9a4ecaba49b6cbcf9514139510ec91b97668b978[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 10:06:06 2022 +0000
+
+    1. For Best School loop
+
+[33mcommit 70a1f2c9d04402c42e4e8d64fb6cdec488c297dc[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 09:48:10 2022 +0000
+
+    0. Create a SSH RSA key pair
+
+[33mcommit 7bd6bc3e90a0bbc708b1859eb6908ace37fd54bd[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Nov 11 09:46:58 2022 +0000
+
+    README
+
+[33mcommit 8f62bc6acdb246638bd66aa2ccc2ac23cbc0f559[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Oct 25 21:40:14 2022 +0100
+
+    README
+
+[33mcommit 73e42f0cd34a89490a97f4e606a3b77e4847a193[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Oct 25 21:38:20 2022 +0100
+
+    2. Reach the perfect cube, 27
+
+[33mcommit 53f6063959f8c5abe4a9b48bb95a43c51cf65f86[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Oct 25 21:36:41 2022 +0100
+
+    1. Reach חי completed tasks
+
+[33mcommit 584d19daec2efc99f6099cd20ce12c5c5327f63a[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Oct 25 21:34:43 2022 +0100
+
+    0. First 九 tasks
+
+[33mcommit 2f65fff9f022850e9659d3d7cb9ad10acf1ef8b5[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Jun 28 06:08:20 2022 -0700
+
+    Task 1 Advanced
+
+[33mcommit 085fb3e0633536f83c6e8db4fc801f7c89aa8ee0[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Jun 28 05:59:27 2022 -0700
+
+    Task 16 Advanced
+
+[33mcommit 3d15b4b26c508633bcc5696aad763ee63c1e5e84[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Jun 28 05:55:42 2022 -0700
+
+    Task 15 Advanced
+
+[33mcommit a0638a9ef02b417830bacdc6041c9c252da477d7[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Jun 28 05:50:59 2022 -0700
+
+    Task 14 Advanced
+
+[33mcommit 618c3e23cbe96381a1bf182a7f23c9ad0873b62d[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Jun 28 05:28:29 2022 -0700
+
+    Task 11, 12, 13
+
+[33mcommit 63a47cc50a5e3bfa1797b8ef1c21edb65b0dc80b[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Jun 28 05:23:04 2022 -0700
+
+    Task 10
+
+[33mcommit 4c8324cd501ce9fd2f39a716674b54d8284c2336[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Jun 28 05:19:50 2022 -0700
+
+    Task 9
+
+[33mcommit c9a78094c034c2d4f08d8a16361fde3c86e2ef23[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Jun 28 05:14:52 2022 -0700
+
+    Task 3
+
+[33mcommit 813d230ac87353f3e3a25d88e321eb21dffe0edb[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Jun 28 05:09:08 2022 -0700
+
+    3-paths removed
+
+[33mcommit 7531611fdeb8598d716b02bf8b65462974c53686[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Jun 28 04:54:05 2022 -0700
+
+    Task 8
+
+[33mcommit f8767eb0cef920991996ab7a17a5ffe175bbcd98[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Jun 28 04:50:49 2022 -0700
+
+    Task 7
+
+[33mcommit 3e0f828af2418df30d17aca5a0574d885cde7862[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Jun 28 04:40:13 2022 -0700
+
+    Task 7
+
+[33mcommit 92c1fce816bdec91f2e88a732d7e2e45dc74b8db[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Jun 28 04:35:31 2022 -0700
+
+    Task 5
+
+[33mcommit af3f1445b4058b80069ed5378b4e2c8dcb53907b[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Jun 28 03:44:49 2022 -0700
+
+    Task 4
+
+[33mcommit d8a34f915ed2222ce5d53584a2d7ce1e59800f9a[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Jun 28 03:40:19 2022 -0700
+
+    Task 3
+
+[33mcommit d99ae56846fe33dcc784a8b89f0041ba536e37f8[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Jun 28 02:46:16 2022 -0700
+
+    Task 2
+
+[33mcommit 73acabc01532e7e23acf98c641eacd1cf5c030b7[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Jun 28 02:38:18 2022 -0700
+
+    Task 1
+
+[33mcommit 764616aa69cb1e79d37dec9b02db8c08197e94d5[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Tue Jun 28 02:33:18 2022 -0700
+
+    Task 0
+
+[33mcommit 331890a085941059fd4ddf48bccbb3ac9ab33ac4[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 08:55:30 2022 -0700
+
+    Task 26
+
+[33mcommit 8811eb8601e3243b7c305c5bd450fd9c5443a618[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 08:48:39 2022 -0700
+
+    Task 26
+
+[33mcommit 12b9e096537e6aa47e6119675aa832f464384d6d[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 08:40:31 2022 -0700
+
+    Task 25
+
+[33mcommit 8f6337b8d7cd074243ea32ec613ff53c699893b3[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 08:35:57 2022 -0700
+
+    Task 24
+
+[33mcommit a3ed7444e488a6a6715365309a13ed546d9ac331[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 08:31:21 2022 -0700
+
+    Task 23
+
+[33mcommit c806f503ffdc1d7e78f8f3e57872c7834ed3cff1[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 08:16:31 2022 -0700
+
+    Task 22
+
+[33mcommit 0cf82e8267517d533f4d4212be3ad35a64d91aca[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 08:11:06 2022 -0700
+
+    Task 21
+
+[33mcommit 17107f89e4831cab6883b7b6026581da15b00e79[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 07:47:12 2022 -0700
+
+    Task 20
+
+[33mcommit 209dde1aa6ecb5730d218d6d71431422f37bcd9f[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 04:37:38 2022 -0700
+
+    Task 19
+
+[33mcommit 5de7f324f3d8ce13ec4056ba55bcde19f9889644[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 04:34:01 2022 -0700
+
+    Task 18
+
+[33mcommit dae23ff885082ca6e2b9752657266ff2bbc16768[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 04:30:37 2022 -0700
+
+    Task 17
+
+[33mcommit 0a24e528a51474e30860ec7c4824d2292bf84e7f[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 04:20:13 2022 -0700
+
+    Task 16
+
+[33mcommit 32265e3a8b38e3a5f9ab4aadcac2435013b7e570[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 04:13:19 2022 -0700
+
+    Task 15
+
+[33mcommit e2726c187473b2c90198410d138262131d6ed86c[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 04:09:50 2022 -0700
+
+    Task 14
+
+[33mcommit ba89dd6f17ac4403109401d357a49d4240971fbd[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 04:06:06 2022 -0700
+
+    Task 13
+
+[33mcommit 48439dfe80528d6edf450d74ecf6bf7aaf434ee7[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 04:02:24 2022 -0700
+
+    Task 12
+
+[33mcommit a45ad69b20f59fe41d6c9a10470c73f639aab4a1[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 03:56:51 2022 -0700
+
+    Task 11
+
+[33mcommit cfc022d2805d3547fa46fea7b6fc664b3e0d994b[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 03:51:41 2022 -0700
+
+    Task 10
+
+[33mcommit bfa0608b8c7f60eaef79a097408be5a972b3147b[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 03:48:04 2022 -0700
+
+    Task 9
+
+[33mcommit 3a891a8b223519316918da13d1654363d1ab59be[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 03:44:13 2022 -0700
+
+    Task 8
+
+[33mcommit d4e3df91fad37c459ccd72a10708f69be86a745d[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 03:31:27 2022 -0700
+
+    Tasks 7 executable
+
+[33mcommit 72071c97b79c109e9d1b302e4792c7d055abbdfa[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 03:27:25 2022 -0700
+
+    Task 7
+
+[33mcommit 3cd6025081f21760da5d8b38747930aad4619235[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 03:14:29 2022 -0700
+
+    Task 6
+
+[33mcommit 54de9ea9303e5587069aeeac1a395c4131c25c45[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 03:08:14 2022 -0700
+
+    Task 5
+
+[33mcommit 0fd0a97dd0e4dc923e072ab9bc4999b11e3eee90[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 03:03:57 2022 -0700
+
+    Task 4
+
+[33mcommit 176818aee66fbeeac5e4f029fdf8f3a6b120fbf2[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 02:59:54 2022 -0700
+
+    Task 3
+
+[33mcommit 0df06ca7629113e71459ec06068ee90ac0607c3a[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 02:53:39 2022 -0700
+
+    Task 2
+
+[33mcommit 3bfa4c03bf6630baca53fab462d870d5575443c5[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 02:32:03 2022 -0700
+
+    Task 1
+
+[33mcommit 10282e31b3665afb9afd307064aaeb466345613c[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Mon Jun 27 02:03:59 2022 -0700
+
+    Task 0
+
+[33mcommit e166a609c5b3ba308418a4a544202d5089d4662c[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Sun Jun 26 12:54:11 2022 -0700
+
+    Task 0 <o>
+
+[33mcommit 748ffcbf3a27de720b49c7b9171e851275cea59b[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Fri Jun 24 06:45:46 2022 -0700
+
+    School mgc new
+
+[33mcommit c699a2fac05d263d37371f2529c078b01fd78136[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Fri Jun 24 13:40:45 2022 +0000
+
+    Update school.mgc
+
+[33mcommit 4fb2ace7f8f9e716bfd5dc3dfc3983f156ca0ffe[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Fri Jun 24 13:40:09 2022 +0000
+
+    Update school.mgc
+
+[33mcommit 4e07679b6237d5f80c8782de9256678c601955bb[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 16:33:38 2022 -0700
+
+    file school
+
+[33mcommit 7c24ae62b2fafe3389c2f39775cf9a9672e3470f[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 15:46:26 2022 -0700
+
+    new school
+
+[33mcommit 602d43c60d137b54443339324dae49a29e31084e[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 15:27:53 2022 -0700
+
+    schoolexecut
+
+[33mcommit 44a334f1156a3c8fde1decb5fd6a3b1c465e329a[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 15:24:00 2022 -0700
+
+    new school mgc
+
+[33mcommit 2dded01057805de15f09e78ef33d6735933932d1[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 15:21:59 2022 -0700
+
+    school removed
+
+[33mcommit 868126ad0afb0e7faa0737bbcd3b52e3fa1ec1a6[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 15:12:43 2022 -0700
+
+    school
+
+[33mcommit c7099828304fb37acec3be8a037c87b44360d9ff[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 15:05:41 2022 -0700
+
+    Task17
+
+[33mcommit 1c597b27d1c9ae69fb2384ad79afb1143300d3b0[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 15:00:45 2022 -0700
+
+    Task16
+
+[33mcommit b5164bfeda2217e956ff47ccda0d332c3cc993c3[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 14:55:20 2022 -0700
+
+    Task15
+
+[33mcommit 99178d3aeba644b2e6b979452e1a950ae9fd6e2e[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 14:46:30 2022 -0700
+
+    Task14
+
+[33mcommit 5ae03cc1eba5cfe332d61ac51da623f7e42face9[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 14:40:33 2022 -0700
+
+    Task13
+
+[33mcommit 0c1c1fb2765315ed0f1680fb91570a68c886503f[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 14:29:53 2022 -0700
+
+    Task12
+
+[33mcommit acbda0aa72f9353a279c1e6f548c30513e9bdf7a[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 14:09:42 2022 -0700
+
+    Task13
+
+[33mcommit 1b2b7de51e36553d39a00ea328d99f8e1965b7be[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 14:02:28 2022 -0700
+
+    Task12
+
+[33mcommit 1e883e6b4f1acabb79c0665a3c80a43580112ea2[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 13:50:49 2022 -0700
+
+    removing Task12
+
+[33mcommit 413d577dcee17f5afca2638cfce8127d397380f0[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 13:39:40 2022 -0700
+
+    Task12
+
+[33mcommit 00df072db04f0338c3bf10a1f38ba61337441173[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 13:32:44 2022 -0700
+
+    12-directory_permissions removed
+
+[33mcommit d6d609ffd1f8d76fe9de599f0d6af80f3af63076[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 13:20:52 2022 -0700
+
+    Task12
+
+[33mcommit 2692eda2ff204468d36019085a1e3a4833a1b708[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 13:09:27 2022 -0700
+
+    Task11
+
+[33mcommit e50968aebbe898d5ad2d7f630387e82c7c099277[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 13:02:49 2022 -0700
+
+    Task10
+
+[33mcommit 5cc0617a7915f877cff53dcfc24a729eaa18ca31[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 12:58:41 2022 -0700
+
+    Task9
+
+[33mcommit cc2e436be89157898e97cd0ee555b702f5c28706[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 12:54:31 2022 -0700
+
+    Task8
+
+[33mcommit 06321188058579f09ea586072309328590e0d501[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 12:32:51 2022 -0700
+
+    Task8
+
+[33mcommit 5847d4d3637d092baf0039ddadf062a08e2c648a[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 12:20:51 2022 -0700
+
+    Task7
+
+[33mcommit ba8dccf4333c7deb5301c635d872eb208a8e8acf[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 12:14:05 2022 -0700
+
+    Task6
+
+[33mcommit 58d0779ac49500d159ac1024ac232d11d8dbf7ff[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 12:07:44 2022 -0700
+
+    Task5
+
+[33mcommit e84d2b42080d38f62eaf2832eec8b1c2f0dd818d[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 11:48:04 2022 -0700
+
+    Task4
+
+[33mcommit 3589bb8ad305f890775dd4d797f175218f857a9b[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 11:33:51 2022 -0700
+
+    Task3
+
+[33mcommit 0dcefbe16a4b642be4d3929abc20151cda1bc4c2[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 11:28:36 2022 -0700
+
+    Task2
+
+[33mcommit 75db7f699214bd2c0d38554e3d0981ad258e1422[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 11:16:47 2022 -0700
+
+    Task2
+
+[33mcommit 52004a7fbfa27d7e15d5ddcc68e401087633871d[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 11:01:34 2022 -0700
+
+    Task1
+
+[33mcommit 8f8a921efdb413cae068fa579c9157e5dfbd6c74[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 10:54:59 2022 -0700
+
+    updat1
+
+[33mcommit c11efeaa20d604a31b4f8fdc584bdaa7f8fc1b03[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 10:43:36 2022 -0700
+
+    Task 1
+
+[33mcommit 812f4cd7c1b133d50b3128e1fd0bd66a9cd7448b[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 10:36:19 2022 -0700
+
+    Task 0
+
+[33mcommit c0be57705b87dfcbcc45c467e06399bbd078d937[m
+Merge: 6759805 73506bd
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 10:16:58 2022 -0700
+
+    Merge branch 'master' of https://github.com/JuskingA/alx-system_engineering-devops
+
+[33mcommit 6759805f2d1c9d128b63d2d024fff4f37ca62fac[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 10:13:16 2022 -0700
+
+    Task 0
+
+[33mcommit 73506bd21ebc442c786b6959b342c98a967dca9c[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Thu Jun 23 16:59:06 2022 +0000
+
+    Delete 2-groups
+
+[33mcommit 53cded0d09b09033664943150658dd9eefc2caec[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Thu Jun 23 16:58:50 2022 +0000
+
+    Delete 1-who_am_i
+
+[33mcommit 77148083369f4bb2600b6b3c8a50b18aa888702f[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Thu Jun 23 16:56:27 2022 +0000
+
+    Create 2-groups
+
+[33mcommit 8d704e559a79e361b940d4feeb2faa5884063248[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Thu Jun 23 16:55:08 2022 +0000
+
+    Create 1-who_am_i
+
+[33mcommit b7e978a51ff0a570ddd6feabdc4c8fb395ea9dfe[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Thu Jun 23 16:53:56 2022 +0000
+
+    Create 0-iam_betty
+
+[33mcommit 90083ad46e1cb83cac888807efde090e998de242[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Thu Jun 23 16:48:10 2022 +0000
+
+    Delete 1-who_am_i
+
+[33mcommit da4aa640efe61821667b50cb6afd5fe6e31b82d3[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Thu Jun 23 16:47:03 2022 +0000
+
+    Delete 0-iam_betty
+
+[33mcommit 91fbd2b476435bc57f9cc126f7e618994429fffe[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 09:36:33 2022 -0700
+
+    Revert "Task 1"
+    
+    This reverts commit 9039bc44c1f98925d526bde38809d0f3abd4234a.
+
+[33mcommit 825f6518a0dae7215d7b6775b387d028ce01d75a[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 09:29:21 2022 -0700
+
+    Revert "Task 0"
+    
+    This reverts commit 948c9772154507e5560d4716a9a31191a1760ed8.
+
+[33mcommit 9039bc44c1f98925d526bde38809d0f3abd4234a[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 09:26:27 2022 -0700
+
+    Task 1
+
+[33mcommit 948c9772154507e5560d4716a9a31191a1760ed8[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 09:12:21 2022 -0700
+
+    Task 0
+
+[33mcommit ac9540c2e4b163538072b59ecb8dda353ae32afa[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Thu Jun 23 14:23:13 2022 +0000
+
+    Create school.mgc
+
+[33mcommit 09063f9c341d6a048e4f18d2a59a0b87dc39573e[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Thu Jun 23 14:21:48 2022 +0000
+
+    Delete .school.mgc.swp
+
+[33mcommit 63dac917fb499b97271efa0b4b9a2ad4c48443cd[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Thu Jun 23 14:21:14 2022 +0000
+
+    Delete school.mgc
+
+[33mcommit f847635aa68baae00c706809bd52528d7afd612a[m
+Merge: 997f5cc fc10ad3
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Thu Jun 23 07:19:12 2022 -0700
+
+    School mgc 19
+
+[33mcommit fc10ad343a48ad65bdf43b7b3fa55306a2e357d2[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Thu Jun 23 13:38:15 2022 +0000
+
+    Update school.mgc
+
+[33mcommit 997f5cca0075046af3055a372994a6dfe33b71e2[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Wed Jun 22 17:34:47 2022 -0700
+
+    Final Execution
+
+[33mcommit b268a3898a7a1cf01f621ad79f01deba6a61c39e[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Thu Jun 23 00:28:49 2022 +0000
+
+    Update school.mgc
+
+[33mcommit fdbc3ce44026dec69b2a43ebd4091cb907958c01[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Thu Jun 23 00:20:01 2022 +0000
+
+    Create school.mgc
+
+[33mcommit 53328d0843e9aec7fa93b2345fd78ba6f08589c9[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Wed Jun 22 16:13:10 2022 -0700
+
+    Executable 2
+
+[33mcommit 67c79fd0152dd0747d56ff298131492471e232b9[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Wed Jun 22 22:50:12 2022 +0000
+
+    Create 103-commas
+
+[33mcommit 39d12b9783a7e6b68793a837bed1863c568ec308[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Wed Jun 22 22:48:38 2022 +0000
+
+    Create 102-tree
+
+[33mcommit a4d091b91bf3f391d0a017692d948b3507fc7757[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Wed Jun 22 22:46:41 2022 +0000
+
+    Create 101-clean_emacs
+
+[33mcommit 75183d2b63bf1283b76aa028aa303c8719ef575c[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Wed Jun 22 22:45:37 2022 +0000
+
+    Create 100-lets_move
+
+[33mcommit f2aa2c05df85f97299f86d1ca04ec555929162b4[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Wed Jun 22 15:36:18 2022 -0700
+
+    Executable list
+
+[33mcommit fb14f56ef8b4c0696901516cd5ed3c91d8be059a[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Wed Jun 22 22:14:37 2022 +0000
+
+    Create 14-copy_html
+
+[33mcommit 920ba94d91231f29e014cf37104b51199d516242[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Wed Jun 22 22:13:13 2022 +0000
+
+    Create 13-symbolic_link
+
+[33mcommit 58b68a6b5337e9a7e99ae9b8c3214a4851ed52eb[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Wed Jun 22 22:12:11 2022 +0000
+
+    Create 12-file_type
+
+[33mcommit b6e4a13f57b41425406afe595a96f626e8c1fe0c[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Wed Jun 22 22:11:18 2022 +0000
+
+    Create 11-lists
+
+[33mcommit 10ee79d57a7544e72933360ccd199cc7cab5deb2[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Wed Jun 22 22:10:20 2022 +0000
+
+    Create 10-back
+
+[33mcommit cf897cb65ef2c5c7190afc4bc37d0a1508a72c4f[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Wed Jun 22 22:09:28 2022 +0000
+
+    Create 9-firstdirdeletion
+
+[33mcommit 642fb29a5971697a6266f5db46db0e59fb89d073[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Wed Jun 22 22:08:18 2022 +0000
+
+    Create 8-firstdelete
+
+[33mcommit 25aec7cc346a1356e71ab4d8506f43ddf8e2ee77[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Wed Jun 22 22:06:35 2022 +0000
+
+    Create 7-movethatfile
+
+[33mcommit 373fb015c459c6ccdf1c3887119bd90b6e1f70e8[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Wed Jun 22 22:05:21 2022 +0000
+
+    Create 6-firstdirectory
+
+[33mcommit 73f0db8ac59291942d2082045e8fc77638a13685[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Wed Jun 22 22:03:11 2022 +0000
+
+    Create 5-listfilesdigitonly
+
+[33mcommit 676cd0a5f78c6b5c32c3b32408f7a8f2b033be3b[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Wed Jun 22 22:01:35 2022 +0000
+
+    Create 4-listmorefiles
+
+[33mcommit b491846884b63ea57ed3bc3fd1192346722cec77[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Wed Jun 22 21:59:36 2022 +0000
+
+    Create 3-listfiles
+
+[33mcommit a100e81dab18b8c8c9ae40613298f62ed7b66f1e[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Wed Jun 22 21:58:26 2022 +0000
+
+    Create 2-bring_me_home
+
+[33mcommit f37ad0e845d449b08addbcf499da01d80f62af5f[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Wed Jun 22 21:57:05 2022 +0000
+
+    Create 1-listit
+
+[33mcommit ae03af22754cb2308f35c16697f168d89f614a9b[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Wed Jun 22 21:54:31 2022 +0000
+
+    Update 0-current_working_directory
+
+[33mcommit b9bb2b2d67443991c3e1423e661faa503a240dc4[m
+Author: JuskingA <106091006+JuskingA@users.noreply.github.com>
+Date:   Wed Jun 22 21:42:11 2022 +0000
+
+    Delete 0-current_working_directory~
+
+[33mcommit aa2be83250a216a89aee966351bd56e74a7cfc23[m
+Author: JuskingA <juskingadjeinyarko@gmail.com>
+Date:   Wed Jun 22 14:04:22 2022 -0700
+
+    working directory
