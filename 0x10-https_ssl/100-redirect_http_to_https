@@ -39,7 +39,7 @@ frontend www-https
         mode http
         bind *:80
         http-request redirect scheme https code 301 unless { ssl_fc }
-        bind *:443 ssl crt /etc/haproxy/certs/www.ahmed-dev.tech.pem
+        bind *:443 ssl crt /etc/haproxy/certs/www.holberton.online
         default_backend webserver
 backend webserver
     balance roundrobin
