@@ -1,22 +1,22 @@
 #!/usr/bin/python3
-"""
-Write a Python script that, using this REST API,
-for a given employee ID, returns information about
-his/her TODO list progress
-export data in the json format.
-"""
+"""export data in the JSON format."""
 import json
 import requests
 
-
-if __name__ == '__main__':
-    filename = "todo_all_employees.json"
-    req = requests.get('https://jsonplaceholder.typicode.com/todos').json()
-    req_id = requests.get('https://jsonplaceholder.typicode.com/users/').json()
-    with open(filename, "w") as f:
-        d = {j.get("id"): [{'task': i.get('title'),
-             'completed': i.get('completed'),
-                            'username': j.get('username')} for i in req
-                           if j.get("id") == i.get('userId')]
-             for j in req_id}
-        json.dump(d, f)
+if __name__ == "__main__":
+    with open('todo_all_employees.json', mode='w') as employement:
+        employees = requests.get(
+            'https://jsonplaceholder.typicode.com/users/').json()
+        for employee in employees:
+            ids = employee.get('id')
+            todos = requests.get(
+                'https://jsonplaceholder.typicode.com/users/{}/todos'
+                .format(ids)).json()
+            tasks = []
+            json_file = {}
+            for task in todos:
+                tasks.append({"task": task.get("title"),
+                              "username": employee.get("username"),
+                              "completed": task.get("completed")})
+            json_file.update({ids: tasks})
+        json.dump(json_file, employement)
